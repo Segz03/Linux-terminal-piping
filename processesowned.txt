@@ -1,0 +1,145 @@
+fjsegar+ 16780  1.2  0.3 912864 61932 ?        Ssl  15:54   0:10 /opt/sublime_text/sublime_text /Users/fjsegarra/Downloads/threadexample.c
+root     17120  0.0  0.0  22032  2436 ?        Ss   15:57   0:00 /sbin/mount.ntfs /dev/sdb1 /media/fjsegarra/WillyWonka -o rw,nodev,nosuid,uid=1141457,gid=2010,uhelper=udisks2
+fjsegar+ 17401  0.0  0.0   4628   776 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17403  0.0  0.0   4628   808 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17404  0.0  0.0   4628   784 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17405  0.0  0.0   4628   804 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17407  0.0  0.0   4628   860 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17409  0.0  0.0   4628   812 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17412  0.0  0.0  21536  1092 pts/0    S+   16:08   0:00 grep fjsegarra
+fjsegar+ 17413  0.0  0.0   4628   776 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17415  0.0  0.0   4628   780 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17417  0.0  0.0  21536  1080 pts/0    S+   16:08   0:00 grep fjsegarra
+fjsegar+ 17420  0.0  0.0  21536  1008 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 17422  0.0  0.0  21536  1108 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 17424  0.0  0.0   4628   784 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17425  0.0  0.0  21536  1060 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 17427  0.0  0.0   4628   800 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17428  0.0  0.0  21536  1028 pts/0    S+   16:08   0:00 grep fjsegarra
+fjsegar+ 17430  0.0  0.0  21536  1008 pts/0    S+   16:08   0:00 grep fjsegarra
+fjsegar+ 17432  0.0  0.0  21536  1036 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 17435  0.0  0.0  21536  1036 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 17436  0.0  0.0  21536  1096 pts/0    S+   16:08   0:00 grep fjsegarra
+fjsegar+ 16780  1.2  0.3 912864 61932 ?        Ssl  15:54   0:10 /opt/sublime_text/sublime_text /Users/fjsegarra/Downloads/threadexample.c
+root     17120  0.0  0.0  22032  2436 ?        Ss   15:57   0:00 /sbin/mount.ntfs /dev/sdb1 /media/fjsegarra/WillyWonka -o rw,nodev,nosuid,uid=1141457,gid=2010,uhelper=udisks2
+fjsegar+ 17401  0.0  0.0   4628   776 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17403  0.0  0.0   4628   808 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17404  0.0  0.0   4628   784 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17405  0.0  0.0   4628   804 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17407  0.0  0.0   4628   860 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17409  0.0  0.0   4628   812 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17412  0.0  0.0  21536  1092 pts/0    S+   16:08   0:00 grep fjsegarra
+fjsegar+ 17413  0.0  0.0   4628   776 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17415  0.0  0.0   4628   780 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17417  0.0  0.0  21536  1080 pts/0    S+   16:08   0:00 grep fjsegarra
+fjsegar+ 17420  0.0  0.0  21536  1008 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 17422  0.0  0.0  21536  1108 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 17424  0.0  0.0   4628   784 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17425  0.0  0.0  21536  1060 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 17427  0.0  0.0   4628   800 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17428  0.0  0.0  21536  1028 pts/0    S+   16:08   0:00 grep fjsegarra
+fjsegar+ 17430  0.0  0.0  21536  1008 pts/0    S+   16:08   0:00 grep fjsegarra
+fjsegar+ 17432  0.0  0.0  21536  1036 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 17435  0.0  0.0  21536  1036 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 17436  0.0  0.0  21536  1096 pts/0    S+   16:08   0:00 grep fjsegarra
+fjsegar+ 16780  1.2  0.3 912864 61932 ?        Ssl  15:54   0:10 /opt/sublime_text/sublime_text /Users/fjsegarra/Downloads/threadexample.c
+root     17120  0.0  0.0  22032  2436 ?        Ss   15:57   0:00 /sbin/mount.ntfs /dev/sdb1 /media/fjsegarra/WillyWonka -o rw,nodev,nosuid,uid=1141457,gid=2010,uhelper=udisks2
+fjsegar+ 17401  0.0  0.0   4628   776 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17403  0.0  0.0   4628   808 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17404  0.0  0.0   4628   784 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17405  0.0  0.0   4628   804 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17407  0.0  0.0   4628   860 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17409  0.0  0.0   4628   812 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17413  0.0  0.0   4628   776 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17415  0.0  0.0   4628   780 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17417  0.0  0.0  21536  1080 pts/0    S+   16:08   0:00 grep fjsegarra
+fjsegar+ 17420  0.0  0.0  21536  1008 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 17424  0.0  0.0   4628   784 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17425  0.0  0.0  21536  1060 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 17427  0.0  0.0   4628   800 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17428  0.0  0.0  21536  1028 pts/0    S+   16:08   0:00 grep fjsegarra
+fjsegar+ 17430  0.0  0.0  21536  1008 pts/0    S+   16:08   0:00 grep fjsegarra
+fjsegar+ 17432  0.0  0.0  21536  1036 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 17435  0.0  0.0  21536  1036 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 17436  0.0  0.0  21536  1096 pts/0    S+   16:08   0:00 grep fjsegarra
+fjsegar+ 16780  1.2  0.3 912864 61932 ?        Ssl  15:54   0:10 /opt/sublime_text/sublime_text /Users/fjsegarra/Downloads/threadexample.c
+root     17120  0.0  0.0  22032  2436 ?        Ss   15:57   0:00 /sbin/mount.ntfs /dev/sdb1 /media/fjsegarra/WillyWonka -o rw,nodev,nosuid,uid=1141457,gid=2010,uhelper=udisks2
+fjsegar+ 17403  0.0  0.0   4628   808 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17405  0.0  0.0   4628   804 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17407  0.0  0.0   4628   860 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17409  0.0  0.0   4628   812 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17413  0.0  0.0   4628   776 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17415  0.0  0.0   4628   780 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17417  0.0  0.0  21536  1080 pts/0    S+   16:08   0:00 grep fjsegarra
+fjsegar+ 17420  0.0  0.0  21536  1008 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 17424  0.0  0.0   4628   784 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17425  0.0  0.0  21536  1060 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 17428  0.0  0.0  21536  1028 pts/0    S+   16:08   0:00 grep fjsegarra
+fjsegar+ 17430  0.0  0.0  21536  1008 pts/0    S+   16:08   0:00 grep fjsegarra
+fjsegar+ 17432  0.0  0.0  21536  1036 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 17435  0.0  0.0  21536  1036 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 16780  1.2  0.3 912864 61932 ?        Ssl  15:54   0:10 /opt/sublime_text/sublime_text /Users/fjsegarra/Downloads/threadexample.c
+root     17120  0.0  0.0  22032  2436 ?        Ss   15:57   0:00 /sbin/mount.ntfs /dev/sdb1 /media/fjsegarra/WillyWonka -o rw,nodev,nosuid,uid=1141457,gid=2010,uhelper=udisks2
+fjsegar+ 17403  0.0  0.0   4628   808 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17405  0.0  0.0   4628   804 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17407  0.0  0.0   4628   860 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17409  0.0  0.0   4628   812 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17413  0.0  0.0   4628   776 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17415  0.0  0.0   4628   780 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17417  0.0  0.0  21536  1080 pts/0    S+   16:08   0:00 grep fjsegarra
+fjsegar+ 17420  0.0  0.0  21536  1008 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 17424  0.0  0.0   4628   784 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17425  0.0  0.0  21536  1060 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 17428  0.0  0.0  21536  1028 pts/0    S+   16:08   0:00 grep fjsegarra
+fjsegar+ 17430  0.0  0.0  21536  1008 pts/0    S+   16:08   0:00 grep fjsegarra
+fjsegar+ 17432  0.0  0.0  21536  1036 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 17435  0.0  0.0  21536  1036 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 16780  1.2  0.3 912864 61932 ?        Ssl  15:54   0:10 /opt/sublime_text/sublime_text /Users/fjsegarra/Downloads/threadexample.c
+root     17120  0.0  0.0  22032  2436 ?        Ss   15:57   0:00 /sbin/mount.ntfs /dev/sdb1 /media/fjsegarra/WillyWonka -o rw,nodev,nosuid,uid=1141457,gid=2010,uhelper=udisks2
+fjsegar+ 17403  0.0  0.0   4628   808 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17405  0.0  0.0   4628   804 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17407  0.0  0.0   4628   860 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17409  0.0  0.0   4628   812 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17413  0.0  0.0   4628   776 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17415  0.0  0.0   4628   780 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17417  0.0  0.0  21536  1080 pts/0    S+   16:08   0:00 grep fjsegarra
+fjsegar+ 17420  0.0  0.0  21536  1008 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 17424  0.0  0.0   4628   784 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17425  0.0  0.0  21536  1060 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 17428  0.0  0.0  21536  1028 pts/0    S+   16:08   0:00 grep fjsegarra
+fjsegar+ 17430  0.0  0.0  21536  1008 pts/0    S+   16:08   0:00 grep fjsegarra
+fjsegar+ 17432  0.0  0.0  21536  1036 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 17435  0.0  0.0  21536  1036 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 16780  1.2  0.3 912864 61932 ?        Ssl  15:54   0:10 /opt/sublime_text/sublime_text /Users/fjsegarra/Downloads/threadexample.c
+root     17120  0.0  0.0  22032  2436 ?        Ss   15:57   0:00 /sbin/mount.ntfs /dev/sdb1 /media/fjsegarra/WillyWonka -o rw,nodev,nosuid,uid=1141457,gid=2010,uhelper=udisks2
+fjsegar+ 17403  0.0  0.0   4628   808 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17405  0.0  0.0   4628   804 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17409  0.0  0.0   4628   812 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17417  0.0  0.0  21536  1080 pts/0    S+   16:08   0:00 grep fjsegarra
+fjsegar+ 17420  0.0  0.0  21536  1008 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 17424  0.0  0.0   4628   784 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17428  0.0  0.0  21536  1028 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 17435  0.0  0.0  21536  1036 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 16780  1.2  0.3 912864 61932 ?        Ssl  15:54   0:10 /opt/sublime_text/sublime_text /Users/fjsegarra/Downloads/threadexample.c
+root     17120  0.0  0.0  22032  2436 ?        Ss   15:57   0:00 /sbin/mount.ntfs /dev/sdb1 /media/fjsegarra/WillyWonka -o rw,nodev,nosuid,uid=1141457,gid=2010,uhelper=udisks2
+fjsegar+ 17403  0.0  0.0   4628   808 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17405  0.0  0.0   4628   804 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17409  0.0  0.0   4628   812 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17417  0.0  0.0  21536  1080 pts/0    S+   16:08   0:00 grep fjsegarra
+fjsegar+ 17420  0.0  0.0  21536  1008 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 17424  0.0  0.0   4628   784 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17428  0.0  0.0  21536  1028 pts/0    S+   16:08   0:00 grep fjsegarra
+fjsegar+ 17435  0.0  0.0  21536  1036 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 16780  1.2  0.3 912864 61932 ?        Ssl  15:54   0:10 /opt/sublime_text/sublime_text /Users/fjsegarra/Downloads/threadexample.c
+root     17120  0.0  0.0  22032  2436 ?        Ss   15:57   0:00 /sbin/mount.ntfs /dev/sdb1 /media/fjsegarra/WillyWonka -o rw,nodev,nosuid,uid=1141457,gid=2010,uhelper=udisks2
+fjsegar+ 17403  0.0  0.0   4628   808 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17405  0.0  0.0   4628   804 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17409  0.0  0.0   4628   812 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17417  0.0  0.0  21536  1080 pts/0    S+   16:08   0:00 grep fjsegarra
+fjsegar+ 17420  0.0  0.0  21536  1008 pts/0    R+   16:08   0:00 grep fjsegarra
+fjsegar+ 17424  0.0  0.0   4628   784 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17428  0.0  0.0  21536  1028 pts/0    S+   16:08   0:00 grep fjsegarra
+fjsegar+ 16780  1.2  0.3 912864 61932 ?        Ssl  15:54   0:10 /opt/sublime_text/sublime_text /Users/fjsegarra/Downloads/threadexample.c
+root     17120  0.0  0.0  22032  2436 ?        Ss   15:57   0:00 /sbin/mount.ntfs /dev/sdb1 /media/fjsegarra/WillyWonka -o rw,nodev,nosuid,uid=1141457,gid=2010,uhelper=udisks2
+fjsegar+ 17405  0.0  0.0   4628   804 pts/0    S+   16:08   0:00 sh -c ps 'aux' | grep 'fjsegarra' >> processesowned.txt
+fjsegar+ 17417  0.0  0.0  21536  1080 pts/0    S+   16:08   0:00 grep fjsegarra
